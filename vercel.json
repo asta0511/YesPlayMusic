@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://apimusic.yxyang.top/:match*"
+    }
+  ]
+}
